@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Gametrex
 
 You can use the [editor on GitHub](https://github.com/gametrex/GameTracker/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
